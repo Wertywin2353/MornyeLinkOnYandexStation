@@ -18,3 +18,6 @@ https://github.com/Marker284/yandex-station-extended/blob/main/docs/start/index.
 
 ## Installation
 Described in TXT file "!README.txt". U need a PC for this (tech issues on Station side).
+
+## Video overview
+(Will add later on)
